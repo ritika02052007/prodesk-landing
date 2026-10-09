@@ -1,6 +1,6 @@
 # Prodesk IT Landing Page
 
-- **Live URL:** (add your Netlify/Vercel link here)
+- **Live URL:** (https://darling-peony-e3ec53.netlify.app/)
 - **Screenshot:** (add screenshot.png to this folder, then use: `![Screenshot](screenshot.png)`)
 
 ## Built with
